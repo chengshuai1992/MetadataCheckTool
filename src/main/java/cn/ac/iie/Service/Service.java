@@ -63,7 +63,8 @@ class max{
 	  	   System.out.println("min:"+min+"\n"+"max:"+max);  
 	  	   //---------------------------------------------
 	  	   
-	  	    	
+	  	    
+	  	   
 	}
 }
 
